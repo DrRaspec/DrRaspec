@@ -42,9 +42,7 @@
 </details>
 
 <h2> Contribution Snake <img src = "https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width = 50> </h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DrRaspec/DrRaspec/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 <br/>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
