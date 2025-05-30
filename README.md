@@ -6,7 +6,7 @@
   <a href="https://github.com/DrRaspec"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Mobile+App+Developer;I'm+a+Network+Security" /></a>
 </p>
 
-   <a href="https://www.linkedin.com/in/aastha-jha-805001106/" target="_blank">
+   <a href="https://www.linkedin.com/in/yong-bunleng-621a8b368/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
    <a href="https://stackoverflow.com/users/30644571/yong-bunleng" target="_blank">
@@ -45,16 +45,6 @@
   <br/>
   </p>
 </details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/aastha12"><img alt="Aastha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aastha12&custom_title=Aastha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
 <br/>
 
 ## Popular Projects
