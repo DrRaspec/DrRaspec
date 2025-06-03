@@ -35,3 +35,10 @@
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+<h3 align="left">My GitHub Stats:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=seedoft&show_icons=true&locale=en&theme=radical&rank_icon=github" alt="seedoft GitHub Stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seedoft&show_icons=true&locale=en&layout=compact&theme=radical" alt="seedoft Top Languages" />
+</p>
