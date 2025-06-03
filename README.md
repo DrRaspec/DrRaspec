@@ -31,12 +31,11 @@
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
 <a href="https://flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
 <a href="https://dart.dev/"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
-<h3 align="left">My GitHub Stats:</h3>
+<h3 align="center">My GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drraspec&show_icons=true&locale=en&theme=radical&rank_icon=github" alt="drraspec GitHub Stats" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drraspec&show_icons=true&locale=en&layout=compact&theme=radical" alt="drraspec Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=drraspec&show_icons=true&locale=en&theme=radical&rank_icon=github" alt="drraspec GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drraspec&show_icons=true&locale=en&layout=compact&theme=radical" alt="drraspec Top Languages" />
 </p>
 <br/>
 <p align = "center">
