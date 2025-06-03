@@ -23,7 +23,7 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,cs,html,css,discord,postgres,express,figma,firebase,github,java,js,linux,md,materialui,mongodb,mysql,nodejs,postman,py,react,vue,vscode,kali,flutter,dart&perline=18" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,gmail,stackoverflow,c,cpp,cs,dotnet,html,css,discord,postgres,express,figma,firebase,github,java,js,linux,md,materialui,mongodb,sqlite,mysql,postman,py,nodejs,react,vue,npm,webstorm,visualstudio,vscode,androidstudio,idea,kali,flutter,dart&perline=18" />
   </a>
 </p>
 <h3 align="center">My GitHub Stats:</h3>
