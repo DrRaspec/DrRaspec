@@ -42,5 +42,5 @@
 </p>
 <br/>
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://user-images.githubusercontent.com/97342533/222116638-e3cc24dd-28db-483c-8ce6-e8b9941f0734.gif"/>
 </p>
