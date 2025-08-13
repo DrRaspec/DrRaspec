@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/DrRaspec"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Mobile+App+Developer;I'm+a+Network+Security" /></a>
+  <a href="https://github.com/DrRaspec"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Mobile+App+Developer;I'm+a+Backend+Developer" /></a>
 </p>
 
    <a href="https://www.linkedin.com/in/yong-bunleng-621a8b368/" target="_blank">
