@@ -22,26 +22,19 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="center">
-  <!-- ChatGPT -->
   <a href="https://chat.openai.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="50" alt="ChatGPT"/>
+    <img src="https://raw.githubusercontent.com/DrRaspec/ai-logo/main/chatgpt.png" height="50" alt="ChatGPT"/>
   </a>
-  
-  <!-- Claude -->
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://claude.ai" target="_blank">
-    <img src="https://cdn.brandfetch.io/anthropic.com/icon" height="50" alt="Claude"/>
+    <img src="https://raw.githubusercontent.com/DrRaspec/ai-logo/main/claude.png" height="50" alt="Claude"/>
   </a>
-  
-  <!-- Google Gemini -->
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://gemini.google.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Gemini_logo.svg" height="50" alt="Gemini"/>
-  </a>
-
-  <!-- Meta LLaMA -->
-  <a href="https://ai.meta.com/llama/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Meta_Platforms_Inc._logo.svg" height="50" alt="LLaMA"/>
+    <img src="https://raw.githubusercontent.com/DrRaspec/ai-logo/main/gemini.webp" height="50" alt="Gemini"/>
   </a>
 </p>
+
 <h3 align="center">My GitHub Stats:</h3>
 <p align="center">
   <img 
