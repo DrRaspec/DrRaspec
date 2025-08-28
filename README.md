@@ -22,8 +22,24 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,gmail,stackoverflow,c,cpp,cs,dotnet,html,css,discord,postgres,express,figma,firebase,github,java,js,linux,md,materialui,mongodb,sqlite,mysql,postman,py,nodejs,react,vue,npm,webstorm,visualstudio,vscode,androidstudio,idea,kali,flutter,dart&perline=18" />
+  <!-- ChatGPT -->
+  <a href="https://chat.openai.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="50" alt="ChatGPT"/>
+  </a>
+  
+  <!-- Claude -->
+  <a href="https://claude.ai" target="_blank">
+    <img src="https://cdn.brandfetch.io/anthropic.com/icon" height="50" alt="Claude"/>
+  </a>
+  
+  <!-- Google Gemini -->
+  <a href="https://gemini.google.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Gemini_logo.svg" height="50" alt="Gemini"/>
+  </a>
+
+  <!-- Meta LLaMA -->
+  <a href="https://ai.meta.com/llama/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Meta_Platforms_Inc._logo.svg" height="50" alt="LLaMA"/>
   </a>
 </p>
 <h3 align="center">My GitHub Stats:</h3>
