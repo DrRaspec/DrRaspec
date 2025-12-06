@@ -34,22 +34,6 @@
     <img src="https://raw.githubusercontent.com/DrRaspec/ai-logo/main/gemini.webp" height="50" alt="Gemini"/>
   </a>
 </p>
-
-<h3 align="center">My GitHub Stats:</h3>
-<p align="center">
-  <img 
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=drraspec&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&rank_icon=github"
-    alt="drraspec's GitHub Stats" 
-  />
-  &nbsp;&nbsp;
-  <img 
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=drraspec&count_private=true&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" 
-    alt="drraspec's Top Languages" 
-  />
-</p>
-<br/>
 <p align = "center">
 	<img src = "https://user-images.githubusercontent.com/97342533/222116638-e3cc24dd-28db-483c-8ce6-e8b9941f0734.gif"/>
 </p>
