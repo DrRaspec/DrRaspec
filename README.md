@@ -15,10 +15,24 @@
 
 <br/><br/>
 
-- 👋 Hi, I’m Bunleng
-- 💼 I'm a Mobile App Developer at Excellence Logistics CO., LTD
-- 💬 Talk to me about freelancing opportunities in Mobile App Development
-- 👯 I’m looking to collaborate on frontend software engineering projects
+<table>
+  <tr>
+    <td valign="top">
+
+- 👋 Hi, I’m **Bunleng**  
+- 💼 I'm a **Mobile App Developer at DIGI Express**  
+- 💬 Talk to me about **freelancing opportunities in Mobile App Development**  
+- 👯 I’m looking to collaborate on **frontend software engineering projects**
+
+    </td>
+    <td valign="top" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DrRaspec&theme=github_dark"
+        width="350"
+      />
+    </td>
+  </tr>
+</table>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="center">
@@ -36,7 +50,4 @@
 </p>
 <p align = "center">
 	<img src = "https://user-images.githubusercontent.com/97342533/222116638-e3cc24dd-28db-483c-8ce6-e8b9941f0734.gif"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrRaspec&layout=compact&langs_count=5&hide=html,css&theme=github_dark&hide_border=true" />
 </p>
