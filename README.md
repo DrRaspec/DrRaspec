@@ -37,3 +37,6 @@
 <p align = "center">
 	<img src = "https://user-images.githubusercontent.com/97342533/222116638-e3cc24dd-28db-483c-8ce6-e8b9941f0734.gif"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrRaspec&layout=compact&langs_count=5&hide=html,css&theme=github_dark&hide_border=true" />
+</p>
