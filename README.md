@@ -26,7 +26,9 @@
 
     </td>
     <td valign="top" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DrRaspec&theme=github_dark" />
+      <img
+		src="https://github-readme-stats-coral-five-97.vercel.app/api/top-langs/?username=DrRaspec&layout=compact&langs_count=5&hide=html,css&theme=github_dark&hide_border=true"
+	  />
     </td>
   </tr>
 </table>
