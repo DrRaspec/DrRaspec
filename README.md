@@ -25,13 +25,20 @@
 - 👯 I’m looking to collaborate on **frontend software engineering projects**
 
     </td>
+
     <td valign="top" align="center">
       <img
-  src="https://github-readme-stats-coral-five-97.vercel.app/api/top-langs/?username=DrRaspec&layout=compact&langs_count=5&hide=html,css&theme=github_dark&hide_border=true&v=20260305" alt="DrRaspec Top Languages"/>
+        src="https://github-readme-stats-coral-five-97.vercel.app/api/top-langs/?username=DrRaspec&layout=compact&langs_count=5&hide=html,css&theme=github_dark&hide_border=true&v=20260305"
+        alt="DrRaspec Top Languages"/>
     </td>
-	<td>
-		<img src="https://github-readme-stats-coral-five-97.vercel.app/api?username=DrRaspec&show_icons=true&theme=github_dark&hide_border=true&v=20260305" alt="DrRaspec GitHub Stats"/>
-	</td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-readme-stats-coral-five-97.vercel.app/api?username=DrRaspec&show_icons=true&theme=github_dark&hide_border=true&v=20260305"
+        alt="DrRaspec GitHub Stats"/>
+    </td>
   </tr>
 </table>
 
