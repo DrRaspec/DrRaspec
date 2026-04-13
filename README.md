@@ -1,61 +1,99 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+<h1 align="center">Hello Fellow < Developers/ >! 👋</h1>
+
+<p align="center">
+  <a href="https://github.com/DrRaspec">
+    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=58A6FF&size=22&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Mobile+App+Developer;Backend+Developer;Building+Scalable+Applications" />
+  </a>
 </p>
 
-<p>
-  <a href="https://github.com/DrRaspec"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Mobile+App+Developer;I'm+a+Backend+Developer" /></a>
-</p>
-
-   <a href="https://www.linkedin.com/in/yong-bunleng-621a8b368/" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/yong-bunleng-621a8b368/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
-   <a href="https://stackoverflow.com/users/30644571/yong-bunleng" target="_blank">
+  </a>
+  <a href="https://stackoverflow.com/users/30644571/yong-bunleng" target="_blank">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>
-
-<br/><br/>
-
-<table>
-  <tr>
-    <td valign="top">
-
-- 👋 Hi, I’m **Bunleng**  
-- 💼 I'm a **Mobile App Developer at DIGI Express**  
-- 💬 Talk to me about **freelancing opportunities in Mobile App Development**  
-- 👯 I’m looking to collaborate on **frontend software engineering projects**
-
-    </td>
-
-    <td valign="top" align="center">
-      <img
-        src="https://github-readme-stats-coral-five-97.vercel.app/api/top-langs/?username=DrRaspec&layout=compact&langs_count=5&hide=html,css&theme=github_dark&hide_border=true&v=20260305"
-        alt="DrRaspec Top Languages"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2" align="center">
-      <img
-        src="https://github-readme-stats-coral-five-97.vercel.app/api?username=DrRaspec&show_icons=true&theme=github_dark&hide_border=true&v=20260305"
-        alt="DrRaspec GitHub Stats"/>
-    </td>
-  </tr>
-</table>
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<p align="center">
-  <a href="https://chat.openai.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/DrRaspec/ai-logo/main/chatgpt.png" height="50" alt="ChatGPT"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://claude.ai" target="_blank">
-    <img src="https://raw.githubusercontent.com/DrRaspec/ai-logo/main/claude.png" height="50" alt="Claude"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://gemini.google.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/DrRaspec/ai-logo/main/gemini.webp" height="50" alt="Gemini"/>
-  </a>
 </p>
-<p align = "center">
-	<img src = "https://user-images.githubusercontent.com/97342533/222116638-e3cc24dd-28db-483c-8ce6-e8b9941f0734.gif"/>
+
+---
+
+## 👋 About Me
+
+- 👨‍💻 I'm **Bunleng**
+- 💼 Mobile App Developer at **DIGI Express**
+- 🚀 Passionate about building **scalable mobile & backend applications**
+- 💬 Open to **freelance opportunities & collaborations**
+- ⚡ Focused on **clean architecture & modern UI/UX**
+
+---
+
+## 💻 Tech Stack
+
+### 📱 Mobile Development
+- Kotlin
+- Jetpack Compose
+- Android SDK
+
+### 🌐 Backend Development
+- Spring Boot
+- JWT Authentication
+- REST APIs
+
+### 🗄 Database
+- MySQL
+- SQL Server
+
+### 🛠 Tools & Technologies
+- Git & GitHub
+- Docker
+- Firebase
+- Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Task Manager System
+- Built with **Spring Boot + JWT + MySQL**
+- Infinite scrolling & filtering
+- Secure authentication system
+- Clean architecture design
+
+---
+
+### 🔹 Mobile Expense Tracker
+- Built with **Jetpack Compose**
+- Modern Material 3 UI
+- Smooth user experience
+- Scalable structure
+
+---
+
+### 🔹 Cambodia Tax Calculator CLI
+- Built with **C# (.NET)**
+- Implements official Cambodian tax rules
+- Supports salary & property tax calculations
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DrRaspec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrRaspec&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/yong-bunleng-621a8b368/
+- 📧 Email:	yong.bunleng.cs@gmail.com
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DrRaspec&color=blue" />
 </p>
