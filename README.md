@@ -1,8 +1,8 @@
 <h1 align="center">bunleng</h1>
-<p align="center">mobile • backend • systems</p>
+<p align="center">mobile engineer • backend systems • building scalable products</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=58A6FF&center=true&vCenter=true&width=500&lines=building+scalable+systems;clean+architecture+focused;shipping+real+products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=58A6FF&center=true&vCenter=true&width=520&lines=designing+real+systems;building+production-ready+apps;clean+architecture+focused" />
 </p>
 
 ---
@@ -14,46 +14,97 @@ bunleng
 > role
 mobile engineer @ digi express
 
-> focus
-scalable systems • backend architecture • mobile performance
+> specialization
+android • spring boot • system design
 ```
 
 ---
 
-### stack
+### 🌐 portfolio
+
+<p align="center">
+  <a href="https://yong-bunleng.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ```txt
-mobile     → kotlin • compose • android
-backend    → spring boot • rest • jwt
-database   → postgresql • sql server
-infra      → docker • firebase
+live projects • architecture insights • real-world applications
 ```
 
 ---
 
-### selected work
+### 🧠 engineering focus
 
-task manager system
-
-* production-style pagination (infinite scroll)
-* jwt authentication
-* layered architecture
-
-expense tracker
-
-* material 3 ui
-* state-driven architecture
-* optimized rendering
-
-cambodia tax cli
-
-* real tax rules implementation
-* accurate calculation engine
-* extensible structure
+* building **end-to-end systems** (mobile → backend → database)
+* designing **clean, maintainable architectures**
+* optimizing **performance & scalability**
+* writing code that survives **real production usage**
 
 ---
 
-### metrics
+### ⚙️ stack
+
+```txt
+mobile     → kotlin • jetpack compose • android sdk  
+backend    → spring boot • rest api • jwt security  
+database   → postgresql • sql server  
+infra      → docker • firebase • git  
+```
+
+---
+
+### 🚀 selected work
+
+#### 📱 expense tracker (android system)
+
+```txt
+personal finance application (production-style architecture)
+```
+
+* kotlin + modern android stack
+* mvvm architecture + local persistence
+* state-driven ui + smooth interaction
+
+---
+
+#### 🌾 rice leaf disease detection (ml system)
+
+```txt
+computer vision classification pipeline
+```
+
+* image-based disease detection
+* real-world agricultural use-case
+* ml integration + model training
+
+---
+
+#### 🎮 godot adventure game
+
+```txt
+interactive game system
+```
+
+* built with godot engine
+* event-driven gameplay logic
+* player movement + interaction system
+
+---
+
+#### ⚙️ todo list (c++)
+
+```txt
+low-level cli application
+```
+
+* pure c++ implementation
+* data structures + logic handling
+* focus on control flow & fundamentals
+
+---
+
+### 📊 metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DrRaspec&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -62,13 +113,31 @@ cambodia tax cli
 
 ---
 
-### contact
+### 🧠 dev dashboard
+
+```bash
+> system.status()
+
+role        : mobile engineer
+focus       : scalable systems
+stack       : android | spring | postgresql
+activity    : building + optimizing
+```
+
+---
+
+### 📫 contact
 
 linkedin → https://www.linkedin.com/in/yong-bunleng-621a8b368/
 email → [yong.bunleng.cs@gmail.com](mailto:yong.bunleng.cs@gmail.com)
 
 ---
 
+I like connecting with people who build things —
+if you're into systems, backend, or mobile, we’ll get along.
+
+---
+
 <p align="center">
-  <i>build systems, not just features</i>
+  <i>systems first. features second.</i>
 </p>
