@@ -8,6 +8,18 @@
 ---
 
 ```bash
+> help
+
+about      → who i am
+stack      → technologies
+projects   → selected work
+stats      → github metrics
+contact    → reach me
+```
+
+---
+
+```bash
 > whoami
 bunleng
 
@@ -20,30 +32,27 @@ android • spring boot • system design
 
 ---
 
-### 🌐 portfolio
-
-<p align="center">
-  <a href="https://yong-bunleng.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-```txt
-live projects • architecture insights • real-world applications
+```bash
+> portfolio
+open https://yong-bunleng.vercel.app/
 ```
 
 ---
 
-### 🧠 engineering focus
+```bash
+> about
+```
 
-* building **end-to-end systems** (mobile → backend → database)
-* designing **clean, maintainable architectures**
-* optimizing **performance & scalability**
-* writing code that survives **real production usage**
+* building end-to-end systems (mobile → backend → database)
+* designing maintainable architectures
+* optimizing performance & scalability
+* focused on real-world production use
 
 ---
 
-### ⚙️ stack
+```bash
+> stack
+```
 
 ```txt
 mobile     → kotlin • jetpack compose • android sdk  
@@ -54,57 +63,27 @@ infra      → docker • firebase • git
 
 ---
 
-### 🚀 selected work
-
-#### 📱 expense tracker (android system)
-
-```txt
-personal finance application (production-style architecture)
+```bash
+> projects
 ```
 
-* kotlin + modern android stack
-* mvvm architecture + local persistence
-* state-driven ui + smooth interaction
+> open [expense-tracker](https://github.com/DrRaspec/My-Expense-Tracker-with-Kotlin)
+> `android system • mvvm • kotlin • compose`
+
+> open [rice-disease-detection](https://github.com/DrRaspec/rice-leaf-disease-detection)
+> `ml system • image classification • python`
+
+> open [godot-adventure](https://github.com/DrRaspec/Godot-Adventure-Game)
+> `game system • event-driven • godot`
+
+> open [todo-cli](https://github.com/DrRaspec/todo_list_with_cpp)
+> `c++ • data structures • cli`
 
 ---
 
-#### 🌾 rice leaf disease detection (ml system)
-
-```txt
-computer vision classification pipeline
+```bash
+> stats
 ```
-
-* image-based disease detection
-* real-world agricultural use-case
-* ml integration + model training
-
----
-
-#### 🎮 godot adventure game
-
-```txt
-interactive game system
-```
-
-* built with godot engine
-* event-driven gameplay logic
-* player movement + interaction system
-
----
-
-#### ⚙️ todo list (c++)
-
-```txt
-low-level cli application
-```
-
-* pure c++ implementation
-* data structures + logic handling
-* focus on control flow & fundamentals
-
----
-
-### 📊 metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DrRaspec&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -113,25 +92,33 @@ low-level cli application
 
 ---
 
-### 🧠 dev dashboard
-
 ```bash
 > system.status()
+```
 
+```txt
 role        : mobile engineer
 focus       : scalable systems
-stack       : android | spring | postgresql
 activity    : building + optimizing
+status      : online
 ```
 
 ---
 
-### 📫 contact
+```bash
+> contact
+```
 
+```txt
 linkedin → https://www.linkedin.com/in/yong-bunleng-621a8b368/
-email → [yong.bunleng.cs@gmail.com](mailto:yong.bunleng.cs@gmail.com)
+email    → yong.bunleng.cs@gmail.com
+```
 
 ---
+
+```bash
+> connect
+```
 
 I like connecting with people who build things —
 if you're into systems, backend, or mobile, we’ll get along.
