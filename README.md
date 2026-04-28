@@ -110,7 +110,7 @@ status      : online
 ```
 
 ```txt
-linkedin → https://www.linkedin.com/in/yong-bunleng-621a8b368/
+linkedin → https://www.linkedin.com/in/yong-bunleng-ybl369/
 email    → yong.bunleng.cs@gmail.com
 ```
 
