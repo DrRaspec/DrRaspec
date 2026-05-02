@@ -86,7 +86,6 @@ infra      → docker • firebase • git
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrRaspec&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img src="https://streak-stats.demolab.com?user=DrRaspec&theme=tokyonight&hide_border=true"/>
 </p>
 
