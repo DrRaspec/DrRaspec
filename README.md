@@ -13,7 +13,6 @@
 about      → who i am
 stack      → technologies
 projects   → selected work
-stats      → github metrics
 contact    → reach me
 ```
 
@@ -78,16 +77,6 @@ infra      → docker • firebase • git
 
 > open [todo-cli](https://github.com/DrRaspec/todo_list_with_cpp)
 > `c++ • data structures • cli`
-
----
-
-```bash
-> stats
-```
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DrRaspec&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
