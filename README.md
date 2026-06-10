@@ -23,7 +23,7 @@ contact    → reach me
 bunleng
 
 > role
-mobile engineer @ digi express
+mobile engineer @ VTS Logistics & Freight Forwarder
 
 > specialization
 android • spring boot • system design
