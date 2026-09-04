@@ -1,0 +1,187 @@
+<svg
+  width="1200"
+  height="360"
+  viewBox="0 0 1200 360"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+    <linearGradient id="line" x1="220" y1="0" x2="980" y2="0">
+      <stop stop-color="#58A6FF" stop-opacity="0.15"/>
+      <stop offset="0.5" stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0.15"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect
+    x="1"
+    y="1"
+    width="1198"
+    height="358"
+    rx="20"
+    fill="#0D1117"
+    stroke="#30363D"
+  />
+
+  <!-- subtle grid -->
+  <g opacity="0.08" stroke="#8B949E">
+    <path d="M0 60H1200"/>
+    <path d="M0 120H1200"/>
+    <path d="M0 180H1200"/>
+    <path d="M0 240H1200"/>
+    <path d="M0 300H1200"/>
+
+    <path d="M120 0V360"/>
+    <path d="M240 0V360"/>
+    <path d="M360 0V360"/>
+    <path d="M480 0V360"/>
+    <path d="M600 0V360"/>
+    <path d="M720 0V360"/>
+    <path d="M840 0V360"/>
+    <path d="M960 0V360"/>
+    <path d="M1080 0V360"/>
+  </g>
+
+  <!-- header -->
+  <text
+    x="70"
+    y="78"
+    fill="#8B949E"
+    font-family="Arial, sans-serif"
+    font-size="14"
+    letter-spacing="4"
+  >
+    SOFTWARE / SYSTEMS / PRODUCTS
+  </text>
+
+  <text
+    x="70"
+    y="135"
+    fill="#F0F6FC"
+    font-family="Arial, sans-serif"
+    font-size="46"
+    font-weight="700"
+    letter-spacing="1"
+  >
+    YONG BUNLENG
+  </text>
+
+  <text
+    x="72"
+    y="171"
+    fill="#8B949E"
+    font-family="Arial, sans-serif"
+    font-size="18"
+  >
+    Mobile Engineer · Backend Systems
+  </text>
+
+  <!-- architecture -->
+  <g transform="translate(70 230)">
+    <text
+      x="0"
+      y="0"
+      fill="#8B949E"
+      font-family="monospace"
+      font-size="12"
+      letter-spacing="2"
+    >
+      MOBILE
+    </text>
+
+    <text
+      x="420"
+      y="0"
+      fill="#8B949E"
+      font-family="monospace"
+      font-size="12"
+      letter-spacing="2"
+    >
+      SERVICES
+    </text>
+
+    <text
+      x="840"
+      y="0"
+      fill="#8B949E"
+      font-family="monospace"
+      font-size="12"
+      letter-spacing="2"
+    >
+      DATA
+    </text>
+
+    <line
+      x1="35"
+      y1="36"
+      x2="875"
+      y2="36"
+      stroke="url(#line)"
+      stroke-width="2"
+    />
+
+    <circle cx="35" cy="36" r="6" fill="#58A6FF"/>
+    <circle cx="455" cy="36" r="6" fill="#58A6FF"/>
+    <circle cx="875" cy="36" r="6" fill="#58A6FF"/>
+
+    <!-- moving signal -->
+    <circle
+      cx="35"
+      cy="36"
+      r="4"
+      fill="#79C0FF"
+      filter="url(#glow)"
+    >
+      <animate
+        attributeName="cx"
+        values="35;875"
+        dur="5s"
+        repeatCount="indefinite"
+      />
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0"
+        dur="5s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <text
+      x="0"
+      y="75"
+      fill="#C9D1D9"
+      font-family="monospace"
+      font-size="14"
+    >
+      Kotlin · Flutter
+    </text>
+
+    <text
+      x="420"
+      y="75"
+      fill="#C9D1D9"
+      font-family="monospace"
+      font-size="14"
+    >
+      Spring Boot · REST
+    </text>
+
+    <text
+      x="840"
+      y="75"
+      fill="#C9D1D9"
+      font-family="monospace"
+      font-size="14"
+    >
+      PostgreSQL
+    </text>
+  </g>
+</svg>
