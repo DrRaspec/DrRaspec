@@ -1,118 +1,197 @@
-<h1 align="center">bunleng</h1>
-<p align="center">mobile engineer • backend systems • building scalable products</p>
+<p align="center">
+  <img
+    src="./assets/profile-hero.svg"
+    width="100%"
+    alt="Yong Bunleng — Mobile Engineer"
+  />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=58A6FF&center=true&vCenter=true&width=520&lines=designing+real+systems;building+production-ready+apps;clean+architecture+focused" />
+  <strong>Mobile Engineer · Backend Systems · Product Engineering</strong>
+</p>
+
+<p align="center">
+  Building reliable software from interface to infrastructure.
+</p>
+
+<p align="center">
+  <a href="https://yong-bunleng.vercel.app/">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/yong-bunleng-ybl369/">LinkedIn</a>
+  ·
+  <a href="mailto:yong.bunleng.cs@gmail.com">Email</a>
+</p>
+<p align="center">
+  <strong>Mobile Engineer · Backend Systems · Product Engineering</strong>
+</p>
+
+<p align="center">
+  Building reliable software from interface to infrastructure.
+</p>
+
+<p align="center">
+  <a href="https://yong-bunleng.vercel.app/">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/yong-bunleng-ybl369/">LinkedIn</a>
+  ·
+  <a href="mailto:yong.bunleng.cs@gmail.com">Email</a>
 </p>
 
 ---
 
-```bash
-> help
+## About
 
-about      → who i am
-stack      → technologies
-projects   → selected work
-contact    → reach me
-```
+I build software across the full product stack — from mobile interfaces and
+application architecture to backend services and databases.
 
----
+My focus is on systems that are:
 
-```bash
-> whoami
-bunleng
+- maintainable as they grow
+- predictable under real usage
+- performant without unnecessary complexity
+- designed around actual product needs
 
-> role
-mobile engineer @ VTS Logistics & Freight Forwarder
-
-> specialization
-android • spring boot • system design
-```
+Currently working as a **Mobile Engineer at VTS Logistics & Freight Forwarder**.
 
 ---
 
-```bash
-> portfolio
-open https://yong-bunleng.vercel.app/
-```
+## Engineering Stack
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### Mobile
+
+Kotlin  
+Jetpack Compose  
+Android SDK  
+
+</td>
+<td width="25%" valign="top">
+
+### Backend
+
+Spring Boot  
+REST APIs  
+Spring Security  
+JWT  
+
+</td>
+<td width="25%" valign="top">
+
+### Data
+
+PostgreSQL  
+SQL Server  
+
+</td>
+<td width="25%" valign="top">
+
+### Platform
+
+Docker  
+Firebase  
+Git  
+
+</td>
+</tr>
+</table>
 
 ---
 
-```bash
-> about
-```
+## Selected Work
 
-* building end-to-end systems (mobile → backend → database)
-* designing maintainable architectures
-* optimizing performance & scalability
-* focused on real-world production use
+### 01 — Expense Tracker
 
----
+**Native Android expense management application**
 
-```bash
-> stack
-```
+Kotlin · Jetpack Compose · MVVM
 
-```txt
-mobile     → kotlin • jetpack compose • android sdk  
-backend    → spring boot • rest api • jwt security  
-database   → postgresql • sql server  
-infra      → docker • firebase • git  
-```
+Built around state-driven UI and maintainable Android application architecture.
+
+[View project →](https://github.com/DrRaspec/My-Expense-Tracker-with-Kotlin)
 
 ---
 
-```bash
-> projects
-```
+### 02 — Rice Disease Detection
 
-> open [expense-tracker](https://github.com/DrRaspec/My-Expense-Tracker-with-Kotlin)
-> `android system • mvvm • kotlin • compose`
+**Image classification system for rice leaf diseases**
 
-> open [rice-disease-detection](https://github.com/DrRaspec/rice-leaf-disease-detection)
-> `ml system • image classification • python`
+Python · Machine Learning · Image Classification
 
-> open [godot-adventure](https://github.com/DrRaspec/Godot-Adventure-Game)
-> `game system • event-driven • godot`
+An ML project exploring computer vision and automated disease detection from
+rice leaf images.
 
-> open [todo-cli](https://github.com/DrRaspec/todo_list_with_cpp)
-> `c++ • data structures • cli`
+[View project →](https://github.com/DrRaspec/rice-leaf-disease-detection)
 
 ---
 
-```bash
-> system.status()
-```
+### 03 — Godot Adventure
 
-```txt
-role        : mobile engineer
-focus       : scalable systems
-activity    : building + optimizing
-status      : online
-```
+**Event-driven adventure game**
 
----
+Godot · Game Systems · Event-Driven Architecture
 
-```bash
-> contact
-```
+A game-development project focused on gameplay systems, interaction, and
+event-driven design.
 
-```txt
-linkedin → https://www.linkedin.com/in/yong-bunleng-ybl369/
-email    → yong.bunleng.cs@gmail.com
-```
+[View project →](https://github.com/DrRaspec/Godot-Adventure-Game)
 
 ---
 
-```bash
-> connect
-```
+### 04 — Todo CLI
 
-I like connecting with people who build things —
-if you're into systems, backend, or mobile, we’ll get along.
+**Command-line task manager**
+
+C++ · Data Structures · CLI
+
+A compact systems-oriented project focused on C++ fundamentals and data
+structure design.
+
+[View project →](https://github.com/DrRaspec/todo_list_with_cpp)
+
+---
+
+## Current Focus
+
+<table>
+<tr>
+<td width="33%">
+
+**Building**
+
+Production mobile systems
+
+</td>
+<td width="33%">
+
+**Exploring**
+
+Platform integration
+
+</td>
+<td width="33%">
+
+**Improving**
+
+System design & scalability
+
+</td>
+</tr>
+</table>
+
+---
+
+## Principles
+
+> Build the architecture so the next feature stays easy.
+
+I care more about clear boundaries, predictable behavior, and long-term
+maintainability than clever abstractions.
 
 ---
 
 <p align="center">
-  <i>systems first. features second.</i>
+  <sub>systems first. features second.</sub>
 </p>
