@@ -21,21 +21,6 @@
   ·
   <a href="mailto:yong.bunleng.cs@gmail.com">Email</a>
 </p>
-<p align="center">
-  <strong>Mobile Engineer · Backend Systems · Product Engineering</strong>
-</p>
-
-<p align="center">
-  Building reliable software from interface to infrastructure.
-</p>
-
-<p align="center">
-  <a href="https://yong-bunleng.vercel.app/">Portfolio</a>
-  ·
-  <a href="https://www.linkedin.com/in/yong-bunleng-ybl369/">LinkedIn</a>
-  ·
-  <a href="mailto:yong.bunleng.cs@gmail.com">Email</a>
-</p>
 
 ---
 
